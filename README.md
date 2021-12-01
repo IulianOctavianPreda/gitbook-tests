@@ -19,11 +19,12 @@ Test
 See the Pen [Alex the CSS Husky](https://codepen.io/davidkpiano/pen/wMqXea) by David Khourshid ([@davidkpiano](https://codepen.io/davidkpiano)) on [CodePen](https://codepen.io).
 
 
-{% embed url="https://codepen.io/davidkpiano/embed/preview/wMqXea?default-tab=html%2Cresult&editable=true" %}
-
 #### Link embed - not working
 
 https://codepen.io/davidkpiano/embed/preview/wMqXea?default-tab=html%2Cresult&editable=true
 
 ### Liquid rendering - working
 {% embed url="https://codepen.io/davidkpiano/pen/wMqXea" %}
+
+
+{% embed url="https://codepen.io/davidkpiano/embed/wMqXea?default-tab=html%2Cresult&editable=true" %}
