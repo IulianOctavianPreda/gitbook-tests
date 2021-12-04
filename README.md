@@ -31,4 +31,5 @@ https://codepen.io/davidkpiano/embed/preview/wMqXea?default-tab=html%2Cresult&ed
 {% embed url="https://stackblitz.com/github/IP-Benchmarks/JavascriptBenchmarks/tree/main?file=libs/benchmarks/src/lib/json/json-stringify-primitives-array-vs-custom-stringify-primitives-array/json-stringify-primitives-array-vs-custom-stringify-primitives-array.ts" %}
 
 {% embed url="https://github1s.com/IulianOctavianPreda/gitbook-tests/edit/master/README.md" %}
+{% stackblitz gqailznob %}
 
